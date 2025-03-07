@@ -3,7 +3,7 @@
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
 Version control is a software system that helps developers to record their changes on their files over time. The fundamental concepts include tracking these changes, referring to previous versions of changes and collaborating with other developers.
-GitHub is a widely used platform for VC because it has cloud-based storage that enables easy access and sharing, collaboration tools (pull reequests and code reviews), allows for continuous integration and continuous deployement and facilitates parallel development. 
+GitHub is a widely used platform for VC because it has cloud-based storage that enables easy access and sharing, collaboration tools (pull reequests and code reviews), allows for continuous integration and continuous deployement (CI/CD) and facilitates parallel development. 
 VC maintains data integrity through:
 Tracking Changes: Every modification is recorded, allowing developers to understand when and why changes were made.
 Preventing Data Loss: Previous versions of files can be restored if errors occur.
@@ -21,7 +21,7 @@ The key decisions to be made include: deciding if it should be a public or priva
 
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
-The README file helps in managing collaborations on files by developers and helps them to understand each others' works. This helps reduce the onboarding time for new contibutors and ensures good documentation. A good README file should contain an appropriate project title and description and a brief overview on the same, installation instructions to set up the project, usage guidelines on how to run and interact with the project, steps for contributing to the project, legal usage terms and contact information.
+The README file helps in managing collaborations on files by developers and helps them to understand each others' works through this documentation. This helps reduce the onboarding time for new contibutors and ensures good documentation. A good README file should contain an appropriate project title and description and a brief overview on the same, installation instructions to set up the project, usage guidelines on how to run and interact with the project, steps for contributing to the project, legal usage terms and contact information. (ChatGPT).
 
 
 
